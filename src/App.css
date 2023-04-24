@@ -1,17 +1,22 @@
+/* Style for Heading */
 .textcolor {
     margin-top: 80px;
     color: #633d2b;
     text-align: center;
 }
+
+/* Style for Content */
 #center {
-    width: 400px; 
-    margin: auto; 
+    width: 400px;
+    margin: auto;
     padding: 20px;
     border-style: solid;
     border-color: #907163;
     border-radius: 20px;
     background-color: #d3aa88;
-  }
+}
+
+/* Style for Image */
 #centered {
     width: 600px;
     margin: auto;
