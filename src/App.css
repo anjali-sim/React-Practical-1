@@ -1,3 +1,13 @@
 .textcolor {
-    color: aquamarine;
+    color: #633d2b;
+    text-align: center;
 }
+#center {
+    width: 400px; 
+    margin: auto; 
+    padding: 20px;
+    border-style: solid;
+    border-color: #907163;
+    border-radius: 20px;
+    background-color: #d3aa88;
+  }
