@@ -1,6 +1,6 @@
 import React from "react";
 import "App.css";
-import image from "./image.jpg";
+import image from "./assets/images/image.jpg";
 
 const App = () => {
   return (
